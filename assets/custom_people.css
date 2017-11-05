@@ -1,0 +1,18 @@
+
+.faculty-panel {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    margin-bottom: 10px;
+    border: 1px solid red;
+    border-radius: 8px;
+}
+.faculty-panel:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.img-circle {
+    border-width: thick;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: 50%;
+}
