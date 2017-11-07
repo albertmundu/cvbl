@@ -7,3 +7,15 @@
     text-align: left;
     margin-bottom: 6px;
 }
+
+.span-info {
+    display: table;
+    margin-bottom: 0px;
+    padding: 0 0 0 10px;
+}
+
+strong {
+    display: table-cell;
+    width: 120px;
+    font-weight: light;
+}
